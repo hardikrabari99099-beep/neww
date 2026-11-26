@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /app
+Disallow: /app/
+Disallow: /login
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /checkout/
+Disallow: /verify/
+Disallow: /api/
+
+Sitemap: https://indifunded.com/sitemap.xml
